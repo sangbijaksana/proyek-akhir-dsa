@@ -1,5 +1,5 @@
 # DSA Final Project
-## **Ethinic Group Classification**
+## **Ethnic Group Classification**
 
 ## Team Member
 Team Name: PBK
@@ -19,8 +19,8 @@ Izzatul Muttaqin - 1606837915
 ## Dataset Clasification Explanation
 
 * file_name: The name of the file
-* folder: The name of the folder(ex: halen_1)
+* folder: The name of the folder(ex: helen_1)
 * ethnic: Manual race labelling
     * 0: African
-    * 1: Asiaan (East Asia)
+    * 1: Asian (East Asia)
     * 2: European
