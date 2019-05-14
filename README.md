@@ -24,3 +24,7 @@ Izzatul Muttaqin - 1606837915
     * 0: African
     * 1: Asian (East Asia)
     * 2: European
+* Web Scraping gambar menggunakan [Hardikvasa/google-images-downloader](https://github.com/hardikvasa/google-images-download.git). Kata kunci pencarian yang digunakan:
+    * Black Man
+    * Asian Man
+    * White Man

