@@ -3,20 +3,20 @@
 
 A DSA final project to classifies the ethnic (race) of a person by the closeup image of the face.
 
-## Team Member
-Team Name: PBK
+## **Team Member**
+Team Name: **PBK**
 
-Class DSA: B
+Class DSA: **B**
 
-Aldi Hilman Ramadhani - 1606895184
+Aldi Hilman Ramadhani - 1606895184 - [@sangbijaksana](https://github.com/sangbijaksana)
 
-Bagas Irwansyah - 1606880730
+Bagas Irwansyah - 1606880730 - [@bagasirwansyah](https://github.com/bagasirwansyah)
 
-Benny William Pardede - 1606917550
+Benny William Pardede - 1606917550 - [@ededrap](https://github.com/ededrap)
 
-Ilham Darmawan Candra Purnama - 1606882351
+Ilham Darmawan Candra Purnama - 1606882351 - [@ilhamdcp](https://github.com/ilhamdcp)
 
-Izzatul Muttaqin - 1606837915
+Izzatul Muttaqin - 1606837915 - [@IzzatulMuttaqin](https://github.com/IzzatulMuttaqin)
 
 # Dataset
 
